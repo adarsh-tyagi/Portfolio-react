@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name": "Adarsh Tyagi",
+    "occupation": "Developer",
+    "description": "Learning and Coding",
+    "image": "profile-pic-3.jpg",
+    "bio": "Hi there! I am Adarsh! My developer journey started in 2016 when I started my engineering degree. Everything was new and tricky for me but at the same time also got interested in programming. My first step was learning the C language and honestly it was hard but as I continued to learn it goes easy eventually. Then I learned data structures, most important and hardest part for me in this journey. Then I got confidence and learned other skills also like Python, JavaScript, Machine Learning. I have completed my engineering and got a job in 2020. I learned about DevOps technologies but web development is something I got interested and I have learned HTML, CSS and MERN stack. Docker and Kubernetes are the techs that I liked in DevOps. I have worked on many web development personel projects. I am still learning and improving beacuse learning is lifetime process.",
+    "contactmessage": "Get in touch with me.",
+    "email": "adarshtyagi044@gmail.com",
+    "phone": "+91 8006508466",
+    "address": {
+      "country": "India",
+      "state": "Uttar Pradesh",
+      "zip": "246761"
+    },
+    "resumedownload": "AdarshResume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/adarsh-tyagi-6a8abb181/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/adarsh-tyagi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Skills",
+    "education": [
+      {
+        "school": "College of Engineering Roorkee",
+        "degree": "Bachelor's of Technology, Computer Science",
+        "graduated": "2016-2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Nagarro Software",
+        "title": "Associate Engineer",
+        "years": "November 2020 - Present",
+        "description": "Trained in DevOps technologies. Developed backend Python Scripts and CI/CD Jenkins jobs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "HTML and CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "75%"
+      },
+      {
+        "name": "Node, Express and MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather Search",
+        "category": "Node, Express",
+        "image": "nodejs-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/nodeJS-weather-app"
+      },
+      {
+        "title": "Story Books",
+        "category": "Node, Express, MongoDB",
+        "image": "nodejs-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/StoryBooks"
+      },
+      {
+        "title": "Dictionary WebApp",
+        "category": "ReactJS",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Word-Stalk-Dictionary"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "ReactJS, Redux, Firebase",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Netflix-Clone"
+      },
+      {
+        "title": "Movie DB",
+        "category": "ReactJS",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/react-movieDB"
+      },
+      {
+        "title": "Color Generator",
+        "category": "ReactJS",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/react-colorGenerator"
+      },
+      {
+        "title": "Cocktails DB",
+        "category": "ReactJS",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/react-cocktailsDB"
+      },
+      {
+        "title": "Tales Social Media",
+        "category": "Python, Django",
+        "image": "python-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Tales-social-media-webapp"
+      },
+      {
+        "title": "MarkDown Previewer",
+        "category": "ReactJS",
+        "image": "react-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Markdown-previewer"
+      },
+      {
+        "title": "Diary WebApp",
+        "category": "Python, Django",
+        "image": "python-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/diary-app"
+      },
+      {
+        "title": "BlackJack",
+        "category": "JavaScript, HTML, CSS",
+        "image": "js-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/BlackJack-JS"
+      },
+      {
+        "title": "Gender Detection",
+        "category": "Deep Learning, Python",
+        "image": "ml-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Machine-Learning/blob/master/Gender_recognition_by_face_detection.ipynb"
+      }
+    ]
+  },
+  "personal": {
+    "hobbies": ["Cricket", "Movies", "History"],
+    "blogs": [
+      {
+        "title": "Python Blogs",
+        "link": "https://lrnpythn.blogspot.com/"
+      },
+      {
+        "title": "Coding Problems",
+        "link": "https://lrncode.blogspot.com/"
+      }
+    ]
+  }
+}
