@@ -165,7 +165,7 @@
     ]
   },
   "personal": {
-    "hobbies": ["Cricket", "Movies", "History"],
+    "hobbies": ["Playing Cricket", "Watching Movies", "Learning History"],
     "blogs": [
       {
         "title": "Python Blogs",

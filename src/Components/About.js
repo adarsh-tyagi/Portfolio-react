@@ -5,7 +5,7 @@ const About = ({ data }) => {
     var name = data.name;
     var profilepic = "images/" + data.image;
     var bio = data.bio;
-    var country = data.address.country;
+    var country = data.address.country; 
     var state = data.address.state;
     var zip = data.address.zip;
     var phone = data.phone;
