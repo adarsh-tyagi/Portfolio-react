@@ -91,6 +91,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "ChitChat WebApp",
+        "category": "Node, Express, SocketIO",
+        "image": "nodejs-logo.jpg",
+        "url": "https://github.com/adarsh-tyagi/Node-ChatApp"
+      },
+      {
         "title": "Weather Search",
         "category": "Node, Express",
         "image": "nodejs-logo.jpg",
