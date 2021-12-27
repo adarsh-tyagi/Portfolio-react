@@ -48,7 +48,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "Python",
@@ -64,7 +64,7 @@
       },
       {
         "name": "Django",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "HTML and CSS",
@@ -72,15 +72,15 @@
       },
       {
         "name": "Docker",
-        "level": "65%"
+        "level": "60%"
       },
       {
         "name": "Kubernetes",
-        "level": "75%"
+        "level": "60%"
       },
       {
         "name": "Node, Express and MongoDB",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "Machine Learning",
@@ -91,28 +91,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "ChitChat WebApp",
-        "category": "Node, Express, SocketIO",
-        "image": "nodejs-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/Node-ChatApp"
+        "title": "E-Commerce",
+        "category": "Node, Express, React, MongoDB",
+        "image": "mern-logo.png",
+        "url": "https://github.com/adarsh-tyagi/E-Commerce"
       },
       {
         "title": "Weather Search",
         "category": "Node, Express",
         "image": "nodejs-logo.jpg",
         "url": "https://github.com/adarsh-tyagi/nodeJS-weather-app"
-      },
-      {
-        "title": "Story Books",
-        "category": "Node, Express, MongoDB",
-        "image": "nodejs-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/StoryBooks"
-      },
-      {
-        "title": "Dictionary WebApp",
-        "category": "ReactJS",
-        "image": "react-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/Word-Stalk-Dictionary"
       },
       {
         "title": "Netflix Clone",
