@@ -4,7 +4,7 @@
     "occupation": "Developer",
     "description": "Learning and Coding",
     "image": "profile-pic-3.jpg",
-    "bio": "Hi there! I am Adarsh! My developer journey started in 2016 when I started my engineering degree. Everything was new and tricky for me but at the same time also got interested in programming. My first step was learning the C language and honestly it was hard but as I continued to learn it goes easy eventually. Then I learned data structures, most important and hardest part for me in this journey. Then I got confidence and learned other skills also like Python, JavaScript, Machine Learning. I have completed my engineering and got a job in 2020. I learned about DevOps technologies but web development is something I got interested and I have learned HTML, CSS and MERN stack. Docker and Kubernetes are the techs that I liked in DevOps. I have worked on many web development personel projects. I am still learning and improving beacuse learning is lifetime process.",
+    "bio": "Hi there! I am Adarsh! My developer journey started in 2016 when I started my engineering degree. Everything was new and tricky for me but at the same time also got interested in programming. My first step was learning the C language and honestly it was hard but as I continued to learn it goes easy eventually. Then I learned data structures, most important and hardest part for me in this journey. Then I got confidence and learned other skills also like Python, JavaScript, Machine Learning. I have completed my engineering and got a job in 2020. I learned about DevOps technologies but web development is something I got interested and I have learned HTML, CSS and MERN stack. Docker and Kubernetes are the techs that I liked in DevOps. I have worked on many web development personal projects. I am still learning and improving beacuse learning is lifetime process.",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
     "phone": "+91 8006508466",
@@ -47,8 +47,8 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "85%"
+        "name": "ReactJs & Redux",
+        "level": "80%"
       },
       {
         "name": "Python",
@@ -84,12 +84,24 @@
       },
       {
         "name": "Machine Learning",
-        "level": "60%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "MovieDB App",
+        "category": "Node, Express, React, MongoDB",
+        "image": "mern-logo.png",
+        "url": "https://github.com/adarsh-tyagi/Movie-DB"
+      },
+      {
+        "title": "Notes App",
+        "category": "Node, Express, React, MongoDB",
+        "image": "mern-logo.png",
+        "url": "https://github.com/adarsh-tyagi/Notes-App"
+      },
       {
         "title": "E-Commerce",
         "category": "Node, Express, React, MongoDB",
@@ -107,12 +119,6 @@
         "category": "ReactJS, Redux, Firebase",
         "image": "react-logo.jpg",
         "url": "https://github.com/adarsh-tyagi/Netflix-Clone"
-      },
-      {
-        "title": "Movie DB",
-        "category": "ReactJS",
-        "image": "react-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/react-movieDB"
       },
       {
         "title": "Color Generator",
