@@ -91,6 +91,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "VideoLibrary App",
+        "category": "Node, Express, React, MongoDB",
+        "image": "mern-logo.png",
+        "url": "https://github.com/adarsh-tyagi/Video-Library"
+      },
+      {
         "title": "MovieDB App",
         "category": "Node, Express, React, MongoDB",
         "image": "mern-logo.png",
