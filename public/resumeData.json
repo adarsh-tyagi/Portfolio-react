@@ -41,8 +41,13 @@
       {
         "company": "Nagarro Software",
         "title": "Associate Engineer",
-        "years": "November 2020 - Present",
-        "description": "Trained in DevOps technologies. Developed backend Python Scripts and CI/CD Jenkins jobs."
+        "years": "November 2020 - March 2022",
+        "description": "Trained in DevOps technologies. Developed backend Python Scripts and CI/CD Jenkins jobs. Served as a Support Engineer for Telecommunication company project."
+      },{
+        "company": "Monsoon CreditTech",
+        "title": "Python Developer",
+        "years": "March 2022 - Present",
+        "description": "Working on Python Django and Angular along with Jenkins CI/CD."
       }
     ],
     "skills": [
