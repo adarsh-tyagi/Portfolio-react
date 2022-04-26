@@ -96,6 +96,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Social Media App",
+        "category": "Node, Express, React, MongoDB, SocketIO",
+        "image": "mern-logo.png",
+        "url": "https://github.com/adarsh-tyagi/SocialMedia"
+      },
+      {
         "title": "VideoLibrary App",
         "category": "Node, Express, React, MongoDB",
         "image": "mern-logo.png",
