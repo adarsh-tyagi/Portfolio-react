@@ -4,9 +4,9 @@
     "occupation": "Developer",
     "description": "Learning and Coding",
     "image": "profile-pic-3.jpg",
-    "bio": "Hi there! I am Adarsh! My developer journey started in 2016 when I started my engineering degree. Everything was new and tricky for me but at the same time also got interested in programming. My first step was learning the C language and honestly it was hard but as I continued to learn it goes easy eventually. Then I learned data structures, most important and hardest part for me in this journey. Then I got confidence and learned other skills also like Python, JavaScript, Machine Learning. I have completed my engineering and got a job in 2020. I learned about DevOps technologies but web development is something I got interested and I have learned HTML, CSS and MERN stack. Docker and Kubernetes are the techs that I liked in DevOps. I have worked on many web development personal projects. I am still learning and improving beacuse learning is lifetime process.",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
+    "bio": "Hi I am Adarsh Tyagi, I completed my B.Tech from Computer Science in 2020. First programming language that I learned was C in 2016. After that I learned Java and Data Structure. Also started doing problem solving on Hackerearth and got 5 star in Java and once I was ranked under 35k globally in Java problem solving. After that I moved to Python and best language that I learned. Also learned little bit of machine learning and done some hands on Scikit learn and Keras library. In Job, I started from DevOps technologies and I also started learning MERN stack. I learned JavaScript, HTML & CSS, React and Node. I like to work on Web development but Machine learning is also something I am excited about.",
     "phone": "+91 8006508466",
     "address": {
       "country": "India",
@@ -53,11 +53,11 @@
     "skills": [
       {
         "name": "ReactJs & Redux",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Python",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "Git",
@@ -65,11 +65,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Django",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "HTML and CSS",
@@ -77,15 +77,15 @@
       },
       {
         "name": "Docker",
-        "level": "60%"
+        "level": "55%"
       },
       {
         "name": "Kubernetes",
-        "level": "60%"
+        "level": "50%"
       },
       {
         "name": "Node, Express and MongoDB",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Machine Learning",
