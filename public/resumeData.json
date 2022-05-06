@@ -77,11 +77,11 @@
       },
       {
         "name": "Docker",
-        "level": "55%"
+        "level": "50%"
       },
       {
         "name": "Kubernetes",
-        "level": "50%"
+        "level": "45%"
       },
       {
         "name": "Node, Express and MongoDB",
@@ -89,7 +89,7 @@
       },
       {
         "name": "Machine Learning",
-        "level": "50%"
+        "level": "40%"
       }
     ]
   },
@@ -182,8 +182,12 @@
     ]
   },
   "personal": {
-    "hobbies": ["Playing Cricket", "Watching Movies", "Learning History"],
+    "hobbies": ["Cricket", "Learning History", "Watching Movies"],
     "blogs": [
+      {
+        "title": "Medium Blogs",
+        "link": "https://medium.com/@adarshtyagi"
+      },
       {
         "title": "Python Blogs",
         "link": "https://lrnpythn.blogspot.com/"
