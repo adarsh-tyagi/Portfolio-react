@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Adarsh Tyagi",
-    "occupation": "Developer",
+    "occupation": "FullStack Developer",
     "description": "Learning and Coding",
     "image": "profile-pic-3.jpg",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
-    "bio": "Hi I am Adarsh Tyagi, I completed my B.Tech from Computer Science in 2020. First programming language that I learned was C in 2016. After that I learned Java and Data Structure. Also started doing problem solving on Hackerearth and got 5 star in Java and once I was ranked under 35k globally in Java problem solving. After that I moved to Python and best language that I learned. Also learned little bit of machine learning and done some hands on Scikit learn and Keras library. In Job, I started from DevOps technologies and I also started learning MERN stack. I learned JavaScript, HTML & CSS, React and Node. I like to work on Web development but Machine learning is also something I am excited about.",
-    "phone": "+91 8006508466",
+    "bio": "Hi I am Adarsh Tyagi, currently working as a FullStack Developer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm also doing Software Engineering specialization from Scaler Academy. I'm always ready and try to learn new things.",
+    "phone": "+91 8077305542",
     "address": {
       "country": "India",
       "state": "Uttar Pradesh",
@@ -24,6 +24,11 @@
         "name": "github",
         "url": "https://github.com/adarsh-tyagi",
         "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@adarshtyagi",
+        "className": "fa fa-medium"
       }
     ]
   },
@@ -45,7 +50,7 @@
         "description": "Trained in DevOps technologies. Developed backend Python Scripts and CI/CD Jenkins jobs. Served as a Support Engineer for Telecommunication company project."
       },{
         "company": "Monsoon CreditTech",
-        "title": "Python Developer",
+        "title": "FullStack Developer",
         "years": "March 2022 - Present",
         "description": "Working on Python Django and Angular along with Jenkins CI/CD."
       }
@@ -61,7 +66,7 @@
       },
       {
         "name": "Git",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -69,7 +74,7 @@
       },
       {
         "name": "Django",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "HTML and CSS",
@@ -85,11 +90,15 @@
       },
       {
         "name": "Node, Express and MongoDB",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Machine Learning",
         "level": "40%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
       }
     ]
   },
