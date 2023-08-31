@@ -6,7 +6,7 @@
     "image": "profile-pic-3.jpg",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
-    "bio": "Hi I am Adarsh Tyagi, currently working as a FullStack Developer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm also doing Software Engineering specialization from Scaler Academy. I'm always ready and try to learn new things.",
+    "bio": "Hi I am Adarsh Tyagi, currently working as a Python Developer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm also doing Software Engineering specialization from Scaler Academy. I'm always ready and try to learn new things.",
     "phone": "+91 8077305542",
     "address": {
       "country": "India",
@@ -51,26 +51,31 @@
       },{
         "company": "Monsoon CreditTech",
         "title": "FullStack Developer",
-        "years": "March 2022 - Present",
-        "description": "Working on Python Django and Angular along with Jenkins CI/CD."
+        "years": "March 2022 - July 2023",
+        "description": "Worked on Python Django and Angular along with Jenkins CI/CD and Docker."
+      },{
+        "company": "Fitelo",
+        "title": "Python Developer",
+        "years": "August 2023 - Present",
+        "description": "Working on Python and responsible for writing and maintaining optimized python scripts"
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs & Redux",
-        "level": "75%"
-      },
       {
         "name": "Python",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
         "name": "JavaScript",
         "level": "75%"
+      },
+      {
+        "name": "ReactJs & Redux",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
       },
       {
         "name": "Django",
@@ -85,20 +90,12 @@
         "level": "50%"
       },
       {
-        "name": "Kubernetes",
-        "level": "45%"
-      },
-      {
         "name": "Node, Express and MongoDB",
-        "level": "70%"
-      },
-      {
-        "name": "Machine Learning",
-        "level": "40%"
+        "level": "60%"
       },
       {
         "name": "Angular",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
