@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Adarsh Tyagi",
-    "occupation": "FullStack Developer",
-    "description": "Learning and Coding",
+    "occupation": "Software Engineer",
+    "description": "Learning and Implementing",
     "image": "profile-pic-3.jpg",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
-    "bio": "Hi I am Adarsh Tyagi, currently working as a Python Developer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm also doing Software Engineering specialization from Scaler Academy. I'm always ready and try to learn new things.",
+    "bio": "Hi I am Adarsh Tyagi, currently working as Senior Software Engineer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm upskilling myself in system design. I'm always ready and try to learn new things.",
     "phone": "+91 8077305542",
     "address": {
       "country": "India",
@@ -56,18 +56,23 @@
       },{
         "company": "Fitelo",
         "title": "Python Developer",
-        "years": "August 2023 - Present",
-        "description": "Working on Python and responsible for writing and maintaining optimized python scripts"
+        "years": "August 2023 - May 2024",
+        "description": "Worked on Python and responsible for writing and maintaining optimized python scripts."
+      },{
+        "company": "Ultimate Kronos Group (UKG)",
+        "title": "Sr. Software Engineer",
+        "years": "June 2024 - Present",
+        "description": "Working on Python development using Fast API, Flask, Docker, GCP and other related tech stack."
       }
     ],
     "skills": [
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "ReactJs & Redux",
@@ -75,11 +80,11 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "Django",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "HTML and CSS",
@@ -96,6 +101,10 @@
       {
         "name": "Angular",
         "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "85%"
       }
     ]
   },
