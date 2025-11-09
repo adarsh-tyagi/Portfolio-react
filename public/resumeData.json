@@ -2,12 +2,12 @@
   "main": {
     "name": "Adarsh Tyagi",
     "occupation": "Software Engineer",
-    "description": "Learning and Implementing",
-    "image": "profile-pic-3.jpg",
+    "description": "Learning and Building Always",
+    "image": "profile-pic.jpg",
     "contactmessage": "Get in touch with me.",
     "email": "adarshtyagi044@gmail.com",
-    "bio": "Hi I am Adarsh Tyagi, currently working as Senior Software Engineer. I work in Python and JavaScript programming languages. I completed my engineering in 2020 and currently along with my job I'm upskilling myself in system design. I'm always ready and try to learn new things.",
-    "phone": "+91 8077305542",
+    "bio": "Hi, I am Adarsh Tyagi, currently working as Senior Software Engineer with over 4 years of experience. My core expertise lies in Python, backend API development using Flask and FastAPI, and database management with SQL and MongoDB. I bring a strong foundation in full-stack development from my earlier roles. For more details about my professional journey, please visit my LinkedIn profile.",
+    "phone": "",
     "address": {
       "country": "India",
       "state": "Uttar Pradesh",
@@ -24,11 +24,6 @@
         "name": "github",
         "url": "https://github.com/adarsh-tyagi",
         "className": "fa fa-github"
-      },
-      {
-        "name": "medium",
-        "url": "https://medium.com/@adarshtyagi",
-        "className": "fab fa-medium"
       }
     ]
   },
@@ -44,67 +39,70 @@
     ],
     "work": [
       {
-        "company": "Nagarro Software",
-        "title": "Associate Engineer",
-        "years": "November 2020 - March 2022",
-        "description": "Trained in DevOps technologies. Developed backend Python Scripts and CI/CD Jenkins jobs. Served as a Support Engineer for Telecommunication company project."
-      },{
-        "company": "Monsoon CreditTech",
-        "title": "FullStack Developer",
-        "years": "March 2022 - July 2023",
-        "description": "Worked on Python Django and Angular along with Jenkins CI/CD and Docker."
-      },{
-        "company": "Fitelo",
-        "title": "Python Developer",
-        "years": "August 2023 - May 2024",
-        "description": "Worked on Python and responsible for writing and maintaining optimized python scripts."
-      },{
         "company": "Ultimate Kronos Group (UKG)",
         "title": "Sr. Software Engineer",
         "years": "June 2024 - Present",
-        "description": "Working on Python development using Fast API, Flask, Docker, GCP and other related tech stack."
+        "description": "As a Senior Software Engineer in the AI team, I design and develop scalable backend services primarily using Python, FastAPI, Flask, and Google Cloud Platform (GCP) tools, with a strong focus on generative AI (GenAI) integration."
+      },
+      {
+        "company": "Fitelo",
+        "title": "Python Developer",
+        "years": "August 2023 - May 2024",
+        "description": "As a Python Developer in the data analytics team at an early-stage startup, I independently managed critical ETL workflows and data processing pipelines."
+      },
+      {
+        "company": "Monsoon CreditTech",
+        "title": "FullStack Developer",
+        "years": "March 2022 - July 2023",
+        "description": "As a Full Stack Developer at an early-stage fintech startup serving banks and NBFCs, I was responsible for designing and implementing both frontend and backend components of critical financial products using Python, Django, Angular, SQL, AWS, and Jenkins."
+      },
+      {
+        "company": "Nagarro Software",
+        "title": "Associate Engineer",
+        "years": "February 2021 - March 2022",
+        "description": "In this role, I managed the development and maintenance of backend Python scripts to automate ETL processes and integrate third-party APIs, supporting the company’s internal DevOps projects with scheduled task automation and data workflows."
       }
     ],
     "skills": [
       {
         "name": "Python",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "75%"
       },
       {
-        "name": "ReactJs & Redux",
+        "name": "Backend Development (Flask, FastAPI, Django)",
+        "level": "85%"
+      },
+      {
+        "name": "Frontend Development(HTML, CSS, React)",
         "level": "75%"
       },
       {
         "name": "Git",
-        "level": "85%"
-      },
-      {
-        "name": "Django",
-        "level": "85%"
-      },
-      {
-        "name": "HTML and CSS",
         "level": "90%"
       },
       {
         "name": "Docker",
+        "level": "75%"
+      },
+      {
+        "name": "Databases (SQL, NoSQL)",
+        "level": "80%"
+      },
+      {
+        "name": "GCP & AWS",
+        "level": "70%"
+      },
+      {
+        "name": "Extract, Transform, Load (ETL)",
+        "level": "90%"
+      }, 
+      {
+        "name": "AI, ML & Data Science",
         "level": "50%"
-      },
-      {
-        "name": "Node, Express and MongoDB",
-        "level": "60%"
-      },
-      {
-        "name": "Angular",
-        "level": "60%"
-      },
-      {
-        "name": "MySQL",
-        "level": "85%"
       }
     ]
   },
@@ -141,12 +139,6 @@
         "url": "https://github.com/adarsh-tyagi/E-Commerce"
       },
       {
-        "title": "Weather Search",
-        "category": "Node, Express",
-        "image": "nodejs-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/nodeJS-weather-app"
-      },
-      {
         "title": "Netflix Clone",
         "category": "ReactJS, Redux, Firebase",
         "image": "react-logo.jpg",
@@ -159,28 +151,10 @@
         "url": "https://github.com/adarsh-tyagi/react-colorGenerator"
       },
       {
-        "title": "Cocktails DB",
-        "category": "ReactJS",
-        "image": "react-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/react-cocktailsDB"
-      },
-      {
-        "title": "Tales Social Media",
-        "category": "Python, Django",
-        "image": "python-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/Tales-social-media-webapp"
-      },
-      {
         "title": "MarkDown Previewer",
         "category": "ReactJS",
         "image": "react-logo.jpg",
         "url": "https://github.com/adarsh-tyagi/Markdown-previewer"
-      },
-      {
-        "title": "Diary WebApp",
-        "category": "Python, Django",
-        "image": "python-logo.jpg",
-        "url": "https://github.com/adarsh-tyagi/diary-app"
       },
       {
         "title": "BlackJack",
@@ -197,19 +171,15 @@
     ]
   },
   "personal": {
-    "hobbies": ["Cricket", "Learning History", "Watching Movies"],
-    "blogs": [
+    "hobbies": ["Cricket", "Video Gaming", "Music"],
+    "Thoughts & Code": [
       {
         "title": "Medium Blogs",
         "link": "https://medium.com/@adarshtyagi"
       },
       {
-        "title": "Python Blogs",
-        "link": "https://lrnpythn.blogspot.com/"
-      },
-      {
-        "title": "Coding Problems",
-        "link": "https://lrncode.blogspot.com/"
+        "title": "LeetCode Profile",
+        "link": "https://leetcode.com/adarsh_tyagi/"
       }
     ]
   }

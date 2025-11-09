@@ -38,8 +38,6 @@ const About = ({ data }) => {
                   {country}, {state}, {zip}
                 </span>
                 <br />
-                <span>{phone}</span>
-                <br />
                 <span>{email}</span>
               </p>
             </div>

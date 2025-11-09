@@ -119,7 +119,7 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
+            <h4>Where to find me?</h4>
             <p style={{ color: "#00cccc" }} className="address">
               {contactName}
               <br />
@@ -129,7 +129,6 @@ const Contact = ({ data }) => {
               {street} <br />
               {country}, {state} {zip}
               <br />
-              <span>{phone}</span>
             </p>
           </div>
         </aside>
