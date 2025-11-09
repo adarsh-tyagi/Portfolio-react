@@ -33,7 +33,7 @@ const Personal = ({ data }) => {
       <div className="text-container">
         <div className="personal">
           <div className="personal__div">
-            <h1>Blogs</h1>
+            <h1>Thoughts & Code</h1>
             <ul>{blogs}</ul>
           </div>
           <div className="personal__div">
